@@ -6,9 +6,26 @@ button {
   display: none;
 }
 .poster {
-  width: 50px;
+  height: 180px;
+  transition: all 0.5s;
+}
+#movie-list ul {
+  list-style: none;
+  padding: 0;
 }
 #movie-list ul li {
   cursor: pointer;
   display: inline-block;
+  margin-right: 20px;
+  text-align: center;
+  vertical-align: top;
+}
+input[name=times] {
+  margin-right: 10px;
+}
+#purchase-button {
+  margin-top: 15px;
+}
+.enlarged {
+  height: 300px;
 }
