@@ -1,0 +1,14 @@
+button {
+  background-color: white;
+  border: solid 1px black;
+}
+.dontshow {
+  display: none;
+}
+.poster {
+  width: 50px;
+}
+#movie-list ul li {
+  cursor: pointer;
+  display: inline-block;
+}

@@ -7,7 +7,7 @@
 ## Project Specs:
 | Behavior |  Input   |  Output  |
 |----------|:--------:|:--------:|
-| The program allows the user to enter their name and age. | name: Brian, age: 16 | N/A |
+| The program allows the user to enter their name and age. | name: Brian, age: 16 | |
 | The program will collect the user's age and display all appropriate movies, based on their rating | name: Brian, age: 16 | *displays any movie w/o an R rating* |
 | The program will allow the user to choose a specific movie they would like to see, and display show times for that movie | *select* "Dead Pool" | *display* Dead Pool show times: 9pm, 10pm |
 | The program will allow the user to choose a specific time for their selected movie, and show the appropriate price | *select* Dead Pool, 9pm | *display* $14 |
